@@ -76,3 +76,4 @@ describe("main.css", () => {
     expect(rule.style["border-top-color"], hint).to.eq("#d300c9");
   });
 });
+
